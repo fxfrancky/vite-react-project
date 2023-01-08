@@ -8,9 +8,9 @@ function Header() {
         <nav className="navbar-item">
           <div className="navbar-item-block">
             <img src={LogoImg} alt="Logo React" className="navbar-logo-img" />
-            <h2 className="navbar-logo-title">ReactFacts</h2>
+            <h3 className="navbar-logo-title">ReactFacts</h3>
           </div>
-          <h3 className="navbar-item-title">React Course - Project1</h3>
+          <h4 className="navbar-item-title">React Course - Project1</h4>
         </nav>
       </header>
     </>
